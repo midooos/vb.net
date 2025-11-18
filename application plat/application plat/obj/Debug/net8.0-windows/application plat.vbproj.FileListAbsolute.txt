@@ -1,0 +1,16 @@
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.vbproj.GenerateResource.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.AssemblyInfoInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.AssemblyInfo.vb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.vbproj.CoreCompileInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application_plat.form1.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\bin\Debug\net8.0-windows\application plat.exe
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\bin\Debug\net8.0-windows\application plat.deps.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\bin\Debug\net8.0-windows\application plat.runtimeconfig.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\bin\Debug\net8.0-windows\application plat.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\bin\Debug\net8.0-windows\application plat.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\refint\application plat.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\application plat.genruntimeconfig.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application plat\application plat\obj\Debug\net8.0-windows\ref\application plat.dll
