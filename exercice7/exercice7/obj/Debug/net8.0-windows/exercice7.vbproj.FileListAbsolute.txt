@@ -1,0 +1,17 @@
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.Form1.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.Resources.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.vbproj.GenerateResource.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.AssemblyInfoInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.AssemblyInfo.vb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.vbproj.CoreCompileInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\bin\Debug\net8.0-windows\exercice7.exe
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\bin\Debug\net8.0-windows\exercice7.deps.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\bin\Debug\net8.0-windows\exercice7.runtimeconfig.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\bin\Debug\net8.0-windows\exercice7.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\bin\Debug\net8.0-windows\exercice7.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\refint\exercice7.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\exercice7.genruntimeconfig.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice7\exercice7\obj\Debug\net8.0-windows\ref\exercice7.dll
