@@ -1,0 +1,16 @@
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\bin\Debug\net8.0-windows\app ex6.exe
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\bin\Debug\net8.0-windows\app ex6.deps.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\bin\Debug\net8.0-windows\app ex6.runtimeconfig.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\bin\Debug\net8.0-windows\app ex6.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\bin\Debug\net8.0-windows\app ex6.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app_ex6.Form1.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.vbproj.GenerateResource.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.AssemblyInfoInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.AssemblyInfo.vb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.vbproj.CoreCompileInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\refint\app ex6.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\app ex6.genruntimeconfig.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\app ex6\app ex6\obj\Debug\net8.0-windows\ref\app ex6.dll
