@@ -1,0 +1,16 @@
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\bin\Debug\net8.0-windows\exercice4.exe
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\bin\Debug\net8.0-windows\exercice4.deps.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\bin\Debug\net8.0-windows\exercice4.runtimeconfig.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\bin\Debug\net8.0-windows\exercice4.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\bin\Debug\net8.0-windows\exercice4.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.Form1.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.vbproj.GenerateResource.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.AssemblyInfoInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.AssemblyInfo.vb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.vbproj.CoreCompileInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\refint\exercice4.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\exercice4.genruntimeconfig.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\exercice4\exercice4\obj\Debug\net8.0-windows\ref\exercice4.dll
