@@ -1,0 +1,16 @@
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application_2.Form1.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.vbproj.GenerateResource.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.AssemblyInfoInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.AssemblyInfo.vb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.vbproj.CoreCompileInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\bin\Debug\net8.0-windows\application 2.exe
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\bin\Debug\net8.0-windows\application 2.deps.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\bin\Debug\net8.0-windows\application 2.runtimeconfig.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\bin\Debug\net8.0-windows\application 2.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\bin\Debug\net8.0-windows\application 2.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\refint\application 2.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\application 2.genruntimeconfig.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\application 2\application 2\obj\Debug\net8.0-windows\ref\application 2.dll
