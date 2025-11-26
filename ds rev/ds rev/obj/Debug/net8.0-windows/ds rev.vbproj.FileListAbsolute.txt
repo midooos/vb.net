@@ -1,0 +1,16 @@
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds_rev.Form1.resources
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.vbproj.GenerateResource.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.AssemblyInfoInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.AssemblyInfo.vb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.vbproj.CoreCompileInputs.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\bin\Debug\net8.0-windows\ds rev.exe
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\bin\Debug\net8.0-windows\ds rev.deps.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\bin\Debug\net8.0-windows\ds rev.runtimeconfig.json
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\bin\Debug\net8.0-windows\ds rev.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\bin\Debug\net8.0-windows\ds rev.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\refint\ds rev.dll
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.pdb
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ds rev.genruntimeconfig.cache
+C:\Users\dmed8\OneDrive\Bureau\mes projets vb.net\tp2\ds rev\ds rev\obj\Debug\net8.0-windows\ref\ds rev.dll
